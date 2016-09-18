@@ -4,3 +4,5 @@ cov-*
 coverage
 plato
 .idea
+calendar-nodejs-quickstart.json
+client_secret.json
